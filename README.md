@@ -4,6 +4,9 @@ A demonstration theme switcher using [Material UI](https://material-ui.com/).
 
 Based on this excellent blog post here... https://techinscribed.com/building-react-app-using-material-ui-with-support-for-multiple-switchable-themes/ - but adapted to use plain JavaScript, as well as an object value for `React.createContext` so that the current theme can be both detected and set from the context.
 
+![alt text](https://github.com/infonomic/material-ui-theme-switcher/blob/master/material-ui-theme-switcher.png?raw=true "Material UI Theme Switcher")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
