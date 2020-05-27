@@ -1,4 +1,14 @@
+# Material UI Theme Switcher Example
+
+A demonstration theme switcher using [Material UI](https://material-ui.com/).
+
+Based on this excellent blog post here... https://techinscribed.com/building-react-app-using-material-ui-with-support-for-multiple-switchable-themes/ - but adapted to use plain JavaScript, as well as an object value for `React.createContext` so that the current theme can be both detected and set from the context.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Installation
+
+### `yarn install`
 
 ## Available Scripts
 
